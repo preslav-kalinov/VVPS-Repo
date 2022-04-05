@@ -1,0 +1,17 @@
+D:\ProjectsC#\ВВПС\PaymentSystemTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\ProjectsC#\ВВПС\PaymentSystemTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\ProjectsC#\ВВПС\PaymentSystemTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\ProjectsC#\ВВПС\PaymentSystemTest\bin\Debug\PaymentSystemTest.dll
+D:\ProjectsC#\ВВПС\PaymentSystemTest\bin\Debug\PaymentSystemTest.pdb
+D:\ProjectsC#\ВВПС\PaymentSystemTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\ProjectsC#\ВВПС\PaymentSystemTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\ProjectsC#\ВВПС\PaymentSystemTest\bin\Debug\VVPS_Exercise4.exe
+D:\ProjectsC#\ВВПС\PaymentSystemTest\bin\Debug\VVPS_Exercise4.pdb
+D:\ProjectsC#\ВВПС\PaymentSystemTest\bin\Debug\VVPS_Exercise4.exe.config
+D:\ProjectsC#\ВВПС\PaymentSystemTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\ProjectsC#\ВВПС\PaymentSystemTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\ProjectsC#\ВВПС\PaymentSystemTest\obj\Debug\PaymentSystemTest.csproj.AssemblyReference.cache
+D:\ProjectsC#\ВВПС\PaymentSystemTest\obj\Debug\PaymentSystemTest.csproj.CoreCompileInputs.cache
+D:\ProjectsC#\ВВПС\PaymentSystemTest\obj\Debug\PaymentSystemTest.csproj.CopyComplete
+D:\ProjectsC#\ВВПС\PaymentSystemTest\obj\Debug\PaymentSystemTest.dll
+D:\ProjectsC#\ВВПС\PaymentSystemTest\obj\Debug\PaymentSystemTest.pdb

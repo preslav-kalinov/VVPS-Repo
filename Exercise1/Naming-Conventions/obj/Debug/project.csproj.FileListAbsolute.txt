@@ -1,0 +1,5 @@
+C:\Users\Developer\Downloads\3. Naming-Identifiers-Homework\bin\Debug\Minesweeper.exe
+C:\Users\Developer\Downloads\3. Naming-Identifiers-Homework\bin\Debug\Minesweeper.pdb
+C:\Users\Developer\Downloads\3. Naming-Identifiers-Homework\obj\Debug\project.csprojResolveAssemblyReference.cache
+C:\Users\Developer\Downloads\3. Naming-Identifiers-Homework\obj\Debug\Minesweeper.exe
+C:\Users\Developer\Downloads\3. Naming-Identifiers-Homework\obj\Debug\Minesweeper.pdb

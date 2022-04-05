@@ -1,0 +1,7 @@
+D:\ProjectsC#\ВВПС\VVPS_Exercise4\bin\Debug\VVPS_Exercise4.exe.config
+D:\ProjectsC#\ВВПС\VVPS_Exercise4\bin\Debug\VVPS_Exercise4.exe
+D:\ProjectsC#\ВВПС\VVPS_Exercise4\bin\Debug\VVPS_Exercise4.pdb
+D:\ProjectsC#\ВВПС\VVPS_Exercise4\obj\Debug\VVPS_Exercise4.csproj.AssemblyReference.cache
+D:\ProjectsC#\ВВПС\VVPS_Exercise4\obj\Debug\VVPS_Exercise4.csproj.CoreCompileInputs.cache
+D:\ProjectsC#\ВВПС\VVPS_Exercise4\obj\Debug\VVPS_Exercise4.exe
+D:\ProjectsC#\ВВПС\VVPS_Exercise4\obj\Debug\VVPS_Exercise4.pdb

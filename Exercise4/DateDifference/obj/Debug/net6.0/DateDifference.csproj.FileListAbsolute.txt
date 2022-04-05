@@ -1,0 +1,15 @@
+D:\C#Projects\DateDifference\obj\Debug\net6.0\DateDifference.csproj.AssemblyReference.cache
+D:\C#Projects\DateDifference\obj\Debug\net6.0\DateDifference.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#Projects\DateDifference\obj\Debug\net6.0\DateDifference.AssemblyInfoInputs.cache
+D:\C#Projects\DateDifference\obj\Debug\net6.0\DateDifference.AssemblyInfo.cs
+D:\C#Projects\DateDifference\obj\Debug\net6.0\DateDifference.csproj.CoreCompileInputs.cache
+D:\C#Projects\DateDifference\bin\Debug\net6.0\DateDifference.exe
+D:\C#Projects\DateDifference\bin\Debug\net6.0\DateDifference.deps.json
+D:\C#Projects\DateDifference\bin\Debug\net6.0\DateDifference.runtimeconfig.json
+D:\C#Projects\DateDifference\bin\Debug\net6.0\DateDifference.dll
+D:\C#Projects\DateDifference\bin\Debug\net6.0\ref\DateDifference.dll
+D:\C#Projects\DateDifference\bin\Debug\net6.0\DateDifference.pdb
+D:\C#Projects\DateDifference\obj\Debug\net6.0\DateDifference.dll
+D:\C#Projects\DateDifference\obj\Debug\net6.0\ref\DateDifference.dll
+D:\C#Projects\DateDifference\obj\Debug\net6.0\DateDifference.pdb
+D:\C#Projects\DateDifference\obj\Debug\net6.0\DateDifference.genruntimeconfig.cache
